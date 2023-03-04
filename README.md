@@ -1,4 +1,4 @@
-# Code-Compression
+# Code Compression and Decompression
 
 In this project, I have implemented both code compression and decompression in Dictionary Coding using C++ programming language.
 
